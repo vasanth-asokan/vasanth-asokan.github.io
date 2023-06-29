@@ -1,15 +1,16 @@
-# Vasanth Asokan - Profile
+# About Me
 
-I created this page to list a few references about me.
+## Manager README
 
-# Work Experience
+I've put up a little README to better describe myself in [this Google Slide deck](https://docs.google.com/presentation/d/1kCuW3hcFpsL0YVOMlz1DWeTVZXfrSZQeTEgyj7BbCJo/edit#slide=id.p)
 
-## Netflix
+## Artifacts from Work Experience
 
-Here are various presentations, artifacts and public material from me and/or members of my teams at Netflix. I've organized them under the respective role during which the artifact was produced. 
+Here are a few artifacts from various roles in my career. These are either my own artifacts, or artifacts produced by members of teams I led. I've organized them under the respective role during which the artifact was produced. 
 
+### Netflix 
 
-### Engineering Leader, Platform Experience and Design
+#### Engineering Leader, Platform Experience and Design
 
 1. [Vasanth Asokan, 2020 Platform Experience and Design, Team Overview](https://docs.google.com/presentation/d/1rL_-23XVTEzBxddcMqsqP-4_AHM-T7KIQ4f3dpAqmwY/edit?usp=embed_facebook)
 
@@ -19,7 +20,7 @@ Here are various presentations, artifacts and public material from me and/or mem
 
 4. [Brian Leathem, Laurie Barth, Backstage in the Wild, Nerdout Podcast](https://open.spotify.com/episode/3du4xUEwjKIj87F2NO8jNl)
 
-### Engineering Leader, Edge Developer Productivity
+#### Engineering Leader, Edge Developer Productivity
 
 1. [Simone - A Distributed Simulation Service](https://netflixtechblog.com/https-medium-com-netflix-techblog-simone-a-distributed-simulation-service-b2c85131ca1b#:~:text=Simone%20is%20a%20service%20that,domains%20throughout%20the%20Netflix%20environment)
 
@@ -32,7 +33,7 @@ Here are various presentations, artifacts and public material from me and/or mem
 5. [Paul Bakker, Kavitha Srinivasan, QCon 2020, Using DevEx to accelerate GraphQL Federation at Netflix](https://www.infoq.com/presentations/devex-netflix-graphql/)
 
 
-### Senior Software Engineer, Edge Engineering
+#### Senior Software Engineer, Edge Engineering
 
 4. [Ludovic Galibert, Spinnaker Summit, Scaling Service Operates at the Edge](https://www.youtube.com/watch?v=b26i7jP_pBE&feature=youtu.be)
 
