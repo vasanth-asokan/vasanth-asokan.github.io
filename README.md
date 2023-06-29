@@ -23,6 +23,10 @@ I've put up a little [README](https://docs.google.com/presentation/d/1kCuW3hcFps
 
     I've worked with a number of people in a variety of roles. As references, I can provide the names of engineering managers and directors, product directors, product and program managers, individual contributors and designers, HR professionals and others.
 
+6. **Backend or frontend?**
+
+    I've typically cared more about the impact versus the methods to achieve the impact. That said, I've always enjoyed being a generalist and have managed full stack teams. I've worked on both frontend and backend systems. My deeper strength is more on backend engineering, but I ultimately care about the usability of products and have a passion for the last mile user experience.
+
 ## Artifacts from Work Experience
 
 Here are a few artifacts from various roles in my career. I've also listed artifacts produced by _members of teams I led_ in order to provide insight into the nature of work on a specific team. Full credits go to respective individuals for the actual artifact.
