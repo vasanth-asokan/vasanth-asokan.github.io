@@ -104,7 +104,7 @@ _``Vasanth Asokan, James Kojo, George Campbell, Aaron Tull, 2013``_
 
 ## Manager README
 
-I've put up a little [README](https://docs.google.com/presentation/d/1kCuW3hcFpsL0YVOMlz1DWeTVZXfrSZQeTEgyj7BbCJo/edit#slide=id.p) to better describe myself as an engineering manager - who I am, what I value, how I operate, goals, strengths and weaknesses. It is / was a living representation. Feel free to take a look! Alternatively, you can just talk to me and learn more :)
+I've put up a little [README](https://docs.google.com/presentation/d/1kCuW3hcFpsL0YVOMlz1DWeTVZXfrSZQeTEgyj7BbCJo/edit#slide=id.p){:target="_blank"} to better describe myself as an engineering manager - who I am, what I value, how I operate, goals, strengths and weaknesses. It is / was a living representation. Feel free to take a look! Alternatively, you can just talk to me and learn more :)
 
 ## Recruiting FAQs
 
