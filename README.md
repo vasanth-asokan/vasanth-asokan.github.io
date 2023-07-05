@@ -1,41 +1,20 @@
-# About Me
+## Intro 
 
-## Manager README
+Hey there - I am Vasanth. If you are someone I am engaging with regarding a role or you are just curious about me and my work, this page should provide some handy references.
 
-I've put up a little [README](https://docs.google.com/presentation/d/1kCuW3hcFpsL0YVOMlz1DWeTVZXfrSZQeTEgyj7BbCJo/edit#slide=id.p) to better describe myself as an engineering manager - who I am, what I value, how I operate, goals, strengths and weaknesses. It is / was a living representation. Feel free to take a look! Alternatively, you can just talk to me and learn more :)
+## Skill Domains
 
-## FAQs
+Microservices, API aggregators and API scaling systems, application protocols, Developer Experience (DevEx), developer portals, platforms and tools, software delivery, observability, compute and operational systems, AWS, cloud computing, service oriented architectures, stream processing systems, resource catalogs and ownership, product management. 
 
+Past specialities include - GNU tools, embedded systems, RTOS, CAD SDKs, reconfigurable microprocessors. 
 
-2. **What are technical domain areas of strengths?**
+## Artifacts from Work Experiences
 
-    Microservices, API aggregators and API scaling systems, application protocols, Developer Experience (DevEx) - product thinking, platforms and tools, software delivery, observability, compute and operational systems, AWS, cloud computing, service oriented architectures, Platform systems and tools. Past specialities include - GNU tools, embedded systems, RTOS, CAD SDKs, reconfigurable microprocessors. 
+Here are a few public artifacts across my various roles and teams. **Note**: these artifacts include those produced by _members of teams I led_. I am including them as the material provides insight into projects and the specific nature of work on that team. 
 
-3. **What would be an ideal role?**
+I've organized artifacts by the role I held at the time the artifact was produced and included the names of the primary authors as well. Full credits go to the individuals listed against each artifact.
 
-    I enjoy leading teams of people as well as individualized work. While out of the box, I am looking for my next role as a people leader, I would be open to talking about other roles that might be a fit based on my experience. I do not believe a person's impact trajectory has to fit into very narrow / specific moulds. 
-
-4. **What are some industry trends that I am most interested by?**
-
-    I am currently pursuing hands on exploration of Generative AI systems. More specifically, I am excited the transformative power of this tech as leveraged in the cloud computing, enterprise and security domains. I am also keenly interested in Generative AI as used in media applications.
-
-5. **Who would be good references?**
-
-    I've worked with a number of people in a variety of roles. As references, I can provide the names of engineering managers and directors, product directors, product and program managers, individual contributors and designers, HR professionals and others.
-
-6. **Backend or frontend?**
-
-    I've typically cared more about the impact versus the methods to achieve the impact. That said, I've always enjoyed being a generalist and have managed full stack teams. I've worked on both frontend and backend systems. My deeper strength is more on backend engineering, but I ultimately care about the usability of products and have a passion for the last mile user experience.
-
-## Artifacts from Work Experience
-
-Here are a few artifacts from various roles in my career. I've also listed artifacts produced by _members of teams I led_ in order to provide insight into the nature of work on a specific team. Full credits go to respective individuals for the actual artifact.
-
-I've organized artifacts by the role I held at the time the artifact was produced and included the names of the primary authors as well. 
-
-### Netflix 
-
-#### Engineering Leader, Platform Experience and Design
+### Netflix, Senior Manager, Platform Experience and Design
 
 1. [Unifying the Netflix engineering experience via a Platform Console](https://2022.platformcon.com/talk/unifying-the-netflix-engineering-experience-with-a-federated-platform-console){:target="_blank"}\
 _``Brian Leathem, PlatformCon 2022``_
@@ -57,7 +36,7 @@ _``Vasanth Asokan, 2020``_
 
     A panel discussion facilitated by Pooja Reddivari (Salesforce) and Ron Efroni (Nix) where I joined developers, architects and product managers from Spotify, PayPal and Lyft to discuss our individual experiences and journeys with developer portals and platforms.
 
-#### Engineering Leader, Edge Developer Productivity
+### Netflix, Engineering Manager, Edge Developer Productivity
 
 1. [Opensourcing Java DGS](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18){:target="_blank"}\
 [Java DGS on GitHub](https://netflix.github.io/dgs/){:target="_blank"}\
@@ -90,7 +69,7 @@ _``Satyajit Thadeshwar, Mayank Agarwal, Sangeeta Narayanan, Kevin Lew, 2017``_
 
     A blog post on the Netflix Tech Blog on the purpose, architecture and insights from building a distributed simulation service for our playback teams.
 
-#### Senior Software Engineer, Edge Engineering
+### Netflix, Senior Software Engineer, Edge Engineering
 
 1. [Scaling Service Operations at the Edge through Centrally Managed Orchestration](https://www.youtube.com/watch?v=b26i7jP_pBE&feature=youtu.be){:target="_blank"}\
 _``Ludovic Galibert, Spinnaker Summit, 2018``_
@@ -123,4 +102,29 @@ _``Vasanth Asokan, James Kojo, George Campbell, Aaron Tull, 2013``_
 
     An OSS version of our bespoke groovy (and other JVM scripting language) framework used as a building block for our API scripting platform running on the Netflix API monolith and handling billions of requests per day.
 
+## Manager README
+
+I've put up a little [README](https://docs.google.com/presentation/d/1kCuW3hcFpsL0YVOMlz1DWeTVZXfrSZQeTEgyj7BbCJo/edit#slide=id.p) to better describe myself as an engineering manager - who I am, what I value, how I operate, goals, strengths and weaknesses. It is / was a living representation. Feel free to take a look! Alternatively, you can just talk to me and learn more :)
+
+## Recruiting FAQs
+
+1. **What would be an ideal role?**
+
+    I enjoy leading teams of people as well as individualized work. I am looking to continue my career as a people leader. That said, I would be open to talking about other roles that might be a fit based on my experience. I do not believe a person's impact trajectory has to fit into very narrow / specific moulds. 
+
+2. **What are some industry trends that I am most interested by?**
+
+    I am currently pursuing hands on exploration of Generative AI systems as leveraged in the cloud computing, enterprise and security domains. I am also curious about Generative AI as used in media applications. Other interests include the latest trends in developer platforms, operational insights, resilience and auto remediating systems.
+
+3. **Am I able to provide references?**
+
+    I've worked with a number of people in a variety of roles. As references, I can provide the names of engineering managers and directors, product directors, product and program managers, individual contributors and designers, HR professionals and others.
+
+4. **Backend or frontend?**
+
+    I am primarily a generalist and have worked on both frontend and backend distributed systems. I have also managed full stack teams with expertise in both distributed systems and frontend platforms. Though my strength is in building and operating resilient backend systems, I care deeply about the usability of products and thus have a strong mindset for the last mile user experience.
+
+5. **What was my engineering manager or software engineering "level"?**
+
+    For decades, Netflix (famously) did not have levels for Individual contributors (ICs), nor levels within management sans "Director" and "Vice President". Thus everyone was a "Senior Software Engineer" and within managers, everyone was just a "Manager". Netflix did introduce engineering levels for ICs in 2022 and managers in 2023 after my departure.Thus, my official titles are technically the engineering titles above. If you would like to understand how my impact would map to levels at your company, I would be happy to get into a conversation and provide references for you calibrate.
 

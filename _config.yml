@@ -22,9 +22,11 @@ title: Vasanth Asokan
 email: vasanth.asokan@gmail.com
 github_username:  vasanth-asokan
 logo: /assets/me-profile.png
-description: This page provides some handy references that describe me and my work.
+description: Engineer | Manager | Technologist
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 gems:
 - jekyll-remote-theme 
+h_min: 2
+h_max: 3
