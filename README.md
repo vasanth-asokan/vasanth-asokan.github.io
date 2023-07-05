@@ -1,10 +1,39 @@
 ## Intro 
 
-Hey there - I am Vasanth. If you are someone I am engaging with regarding a role or you are just curious about me and my work, this page should provide some handy references.
+Hey there - I am Vasanth. I created this page to provide some insight and handy references to my engineering career.
 
-## Skill Domains
+## Domains
 
-Microservices, API aggregators and API scaling systems, application protocols, Developer Experience (DevEx), developer portals, platforms and tools, software delivery, observability, compute and operational systems, AWS, cloud computing, service oriented architectures, stream processing systems, resource catalogs and ownership, product management. 
+These are a few of the domains I am experienced in:
+
+- Microservices, service oriented architectures 
+    - Software delivery
+    - Observability
+    - Compute and operational systems
+    - AWS
+    - Cloud computing, 
+    - API gateways, aggregators, scaling systems
+    - Application protocols
+    - Testing methodologies
+- Developer Experience (DevEx) and Developer Productivity
+  - Developer portals
+  - Platforms
+  - SDLC tooling architectures
+    - Development
+    - Delivery
+    - Observability and operations
+  - Stream processing systems
+- Platform as a Product
+  - Resource catalog
+  - Ownership management systems
+  - Platform product management
+  - Curated experiences
+  - Federated tooling architectures
+  - Platform APIs
+  - Developer Education
+  - Knowledge discovery and support
+  - Technical change campaign management
+  - Scaling platform operations
 
 Past specialities include - GNU tools, embedded systems, RTOS, CAD SDKs, reconfigurable microprocessors. 
 
@@ -112,19 +141,18 @@ I've put up a little [README](https://docs.google.com/presentation/d/1kCuW3hcFps
 
     I enjoy leading teams of people as well as individualized work. I am looking to continue my career as a people leader. That said, I would be open to talking about other roles that might be a fit based on my experience. I do not believe a person's impact trajectory has to fit into very narrow / specific moulds. 
 
-2. **What are some industry trends that I am most interested by?**
-
-    I am currently pursuing hands on exploration of Generative AI systems as leveraged in the cloud computing, enterprise and security domains. I am also curious about Generative AI as used in media applications. Other interests include the latest trends in developer platforms, operational insights, resilience and auto remediating systems.
-
-3. **Am I able to provide references?**
+2. **References?**
 
     I've worked with a number of people in a variety of roles. As references, I can provide the names of engineering managers and directors, product directors, product and program managers, individual contributors and designers, HR professionals and others.
 
-4. **Backend or frontend?**
+3. **Backend or frontend?**
 
     I am primarily a generalist and have worked on both frontend and backend distributed systems. I have also managed full stack teams with expertise in both distributed systems and frontend platforms. Though my strength is in building and operating resilient backend systems, I care deeply about the usability of products and thus have a strong mindset for the last mile user experience.
 
-5. **What was my engineering manager or software engineering "level"?**
+4. **What was my engineering manager or software engineering "level"?**
 
-    For decades, Netflix (famously) did not have levels for Individual contributors (ICs), nor levels within management sans "Director" and "Vice President". Thus everyone was a "Senior Software Engineer" and within managers, everyone was just a "Manager". Netflix did introduce engineering levels for ICs in 2022 and managers in 2023 after my departure.Thus, my official titles are technically the engineering titles above. If you would like to understand how my impact would map to levels at your company, I would be happy to get into a conversation and provide references for you calibrate.
+    Until recently, Netflix did not have levels for Individual contributors (ICs), nor levels within management sans "Director" and "Vice President". Thus everyone was a "Senior Software Engineer" and within managers, everyone was just a "Manager". There are numerous benefits to this flat leveling, but to scale with the company's growth, Netflix did introduce engineering levels for ICs in 2022 and managers in summer of 2023 (after my departure). If you would like to understand the level of my impact in your various roles, I would be happy to get into a conversation to map it to levels at your company. I can also provide reference data points for you to calibrate.
 
+5. **What are some industry trends that I am most interested by?**
+
+    I am currently pursuing hands on exploration of Generative AI systems as leveraged in the cloud computing, enterprise and security domains. I am also curious about Generative AI as used in media applications. Other interests include the latest trends in developer platforms, operational insights, resilience and auto remediating systems.
