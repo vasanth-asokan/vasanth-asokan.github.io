@@ -39,9 +39,9 @@ Past specialities include - GNU tools, embedded systems, RTOS, CAD SDKs, reconfi
 
 ## Artifacts from Work Experiences
 
-Here are a few public artifacts across my various roles and teams. **Note**: these artifacts include those produced by _members of teams I led_. I am including them as the material provides insight into projects and the specific nature of work on that team. 
+Here are a few public artifacts across my various roles and teams. I've organized artifacts by the role I held at the time the artifact was produced and included the names of the primary authors as well. 
 
-I've organized artifacts by the role I held at the time the artifact was produced and included the names of the primary authors as well. Full credits go to the individuals listed against each artifact.
+**Note**: I've included those produced by _members of teams I led_ as the material provides insight into the nature of projects and specifics of work on that team. Full credits go to the authors of each artifact.
 
 ### Netflix, Senior Manager, Platform Experience and Design
 
