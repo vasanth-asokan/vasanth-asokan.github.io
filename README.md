@@ -139,20 +139,21 @@ I've put up a little [README](https://docs.google.com/presentation/d/1kCuW3hcFps
 
 1. **What would be an ideal role?**
 
-    I enjoy leading teams of people as well as individualized work. I am looking to continue my career as a people leader. That said, I would be open to talking about other roles that might be a fit based on my experience. I do not believe a person's impact trajectory has to fit into very narrow / specific moulds. 
+    I enjoy leading teams of people as well as individualized work. I am looking to continue my career as a people leader. I would be open to talking about other roles that might be a fit based on my experience. 
 
-2. **References?**
-
-    I've worked with a number of people in a variety of roles. As references, I can provide the names of engineering managers and directors, product directors, product and program managers, individual contributors and designers, HR professionals and others.
-
-3. **Backend or frontend?**
+2. **Backend or frontend?**
 
     I am primarily a generalist and have worked on both frontend and backend distributed systems. I have also managed full stack teams with expertise in both distributed systems and frontend platforms. Though my strength is in building and operating resilient backend systems, I care deeply about the usability of products and thus have a strong mindset for the last mile user experience.
 
-4. **What was my engineering manager or software engineering "level"?**
+3. **What was my engineering manager or software engineering "level"?**
 
     Until recently, Netflix did not have levels for Individual contributors (ICs), nor levels within management sans "Director" and "Vice President". Thus everyone was a "Senior Software Engineer" and within managers, everyone was just a "Manager". There are numerous benefits to this flat leveling, but to scale with the company's growth, Netflix did introduce engineering levels for ICs in 2022 and managers in summer of 2023 (after my departure). If you would like to understand the level of my impact in your various roles, I would be happy to get into a conversation to map it to levels at your company. I can also provide reference data points for you to calibrate.
 
-5. **What are some industry trends that I am most interested by?**
+4. **What are some industry trends that I am most interested by?**
 
     I am currently pursuing hands on exploration of Generative AI systems as leveraged in the cloud computing, enterprise and security domains. I am also curious about Generative AI as used in media applications. Other interests include the latest trends in developer platforms, operational insights, resilience and auto remediating systems.
+
+5. **References?**
+
+    I've worked with a number of people in a variety of roles. As references, I can provide the names of engineering managers and directors, product directors, product and program managers, individual contributors and designers, HR professionals and others.
+
